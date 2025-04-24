@@ -35,6 +35,6 @@ pip install pygame Pillow
 
 ## Copyright des Éléments Artistiques
 
-Le logo DragoSound (fichier `dragonite_logo.png`) ainsi que tous les autres éléments graphiques ou sonores non spécifiés autrement, sont la propriété exclusive de [Votre Nom ou Pseudo].
+Le logo DragoSound (fichier `dragonite_logo.png`) ainsi que tous les autres éléments graphiques ou sonores non spécifiés autrement, sont la propriété exclusive de Luxuse
 
-Ces éléments artistiques ne peuvent être modifiés (touchés) ni distribués (transmis) sans l'autorisation écrite expresse du titulaire du droit d'auteur ([Votre Nom ou Pseudo]). Tous droits réservés.
+Ces éléments artistiques ne peuvent être modifiés (touchés) ni distribués (transmis) sans l'autorisation écrite expresse du titulaire du droit d'auteur Luxuse. Tous droits réservés.

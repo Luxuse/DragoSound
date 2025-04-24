@@ -32,3 +32,9 @@ Ces librairies peuvent être installées via pip en exécutant les commandes sui
 
 ```bash
 pip install pygame Pillow
+
+## Copyright des Éléments Artistiques
+
+Le logo DragoSound (fichier `dragonite_logo.png`) ainsi que tous les autres éléments graphiques ou sonores non spécifiés autrement, sont la propriété exclusive de [Votre Nom ou Pseudo].
+
+Ces éléments artistiques ne peuvent être modifiés (touchés) ni distribués (transmis) sans l'autorisation écrite expresse du titulaire du droit d'auteur ([Votre Nom ou Pseudo]). Tous droits réservés.

@@ -15,10 +15,8 @@
 ## Limitations Actuelles
 
 Il est important de noter les limitations de la version actuelle de DragoSound :
-
-* **Absence d'Affichage de la Durée Totale :** La durée complète de chaque piste n'est pas déterminée ni affichée dans l'interface utilisateur.
 * **Barre de Progression Non Interactive :** La barre de progression sert uniquement d'indicateur visuel du temps écoulé et ne permet pas de cliquer ou de glisser pour naviguer à un point spécifique de la piste (fonctionnalité de 'seeking').
-* **Fiabilité de l'Avance Automatique :** Sans la connaissance précise de la durée totale, l'enchaînement automatique vers la piste suivante à la fin d'un morceau peut être moins fiable.
+
 
 ## Prérequis Techniques
 

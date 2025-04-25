@@ -2,10 +2,10 @@ Licence MIT
 
 Copyright (c) 2025 Luxuse
 
-La présente licence vous accorde le droit d'utiliser, de copier, de modifier, de fusionner, de publier, de distribuer,  sous réserve des conditions suivantes :
+La présente licence vous accorde la permission d'utiliser, copier, modifier, fusionner, publier, distribuer, sublicencier et/ou vendre des copies du Logiciel, et de permettre aux personnes à qui le Logiciel est fourni de le faire, sous réserve des conditions suivantes :
 
-Le code source de DragoSound peut être partagé, téléchargé et modifié librement.
+    Redistribution : Le code source de DragoSound peut être partagé, téléchargé et modifié librement. Toute redistribution, en tout ou en partie, du Logiciel doit inclure l'avis de droit d'auteur ci-dessus, la présente mention d'autorisation et la clause de non-responsabilité suivante.
 
-L'avis de droit d'auteur ci-dessus et la présente mention d'autorisation doivent être inclus dans toutes les copies ou parties substantielles du Logiciel.
+    Avis de droit d'auteur et mention d'autorisation : L'avis de droit d'auteur ci-dessus et la présente mention d'autorisation doivent être inclus dans toutes les copies ou parties substantielles du Logiciel.
 
-LE LOGICIEL EST FOURNI « EN L'ÉTAT », SANS AUCUNE GARANTIE D'AUCUNE SORTE, EXPRESSE OU IMPLICITE, Y COMPRIS, MAIS SANS S'Y LIMITER, LES GARANTIES DE QUALITÉ MARCHANDE, D'ADAPTATION À UN USAGE PARTICULIER ET DE NON-CONTREFAÇON. EN AUCUN CAS, LES AUTEURS OU LES TITULAIRES DES DROITS D'AUTEUR NE SERONT RESPONSABLES DE TOUTE RÉCLAMATION, DE TOUT DOMMAGE OU D'AUTRE RESPONSABILITÉ, QUE CE SOIT DANS UNE ACTION CONTRACTUELLE, DÉLICTUELLE OU AUTRE, DÉCOULANT DE, OU EN RELATION AVEC LE LOGICIEL OU L'UTILISATION OU D'AUTRES TRANSACTIONS DANS LE LOGICIEL.
+    Clause de non-responsabilité : LE LOGICIEL EST FOURNI « EN L'ÉTAT », SANS AUCUNE GARANTIE D'AUCUNE SORTE, EXPRESSE OU IMPLICITE, Y COMPRIS, MAIS SANS S'Y LIMITER, LES GARANTIES DE QUALITÉ MARCHANDE, D'ADAPTATION À UN USAGE PARTICULIER ET DE NON-CONTREFAÇON. EN AUCUN CAS, LES AUTEURS OU LES TITULAIRES DES DROITS D'AUTEUR NE SERONT RESPONSABLES DE TOUTE RÉCLAMATION, DE TOUT DOMMAGE OU D'AUTRE RESPONSABILITÉ, QUE CE SOIT DANS UNE ACTION CONTRACTUELLE, DÉLICTUELLE OU AUTRE, DÉCOULANT DE, OU EN RELATION AVEC LE LOGICIEL OU SON UTILISATION OU D'AUTRES TRANSACTIONS LIÉES AU LOGICIEL
